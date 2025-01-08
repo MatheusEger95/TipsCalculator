@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tips Calculator</string>
+    <string name="app_result">Summary</string>
+    <string name="main_subtitle">Fullfil the bellow fiels</string>
+    <string name="result_subtitle">See bellow the summary of your bill</string>
+    <string name="type_table_amount">Type the tablet amount </string>
+    <string name="type_num_people">Type the number od people</string>
+    <string name="type_percent">Type percent of tip</string>
+    <string name="total_table">Total table price</string>
+    <string name="num_people">Number of people</string>
+    <string name="percent">Percent tips</string>
+    <string name="btn_clean">Clean</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_refresh">New Calculation</string>
+</resources>

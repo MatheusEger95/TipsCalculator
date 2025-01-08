@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Calculadora de gorjetas</string>
+        <string name="app_result">Resutado</string>
+        <string name="main_subtitle">Preencha os campos abaixo</string>
+        <string name="result_subtitle">Veja abaixo o resumo da sua fatura</string>
+        <string name="type_table_amount">Veja abaixo o resumo da sua conta </string>
+        <string name="type_num_people">Digite o número de pessoas</string>
+        <string name="type_percent">Digite a porcentagem da gorjeta</string>
+        <string name="total_table">Valor total da mesa</string>
+        <string name="num_people">Número de pessoas</string>
+        <string name="percent">Porcentagem da gorjeta</string>
+        <string name="btn_clean">Limpar</string>
+        <string name="btn_calculate">Calcular</string>
+        <string name="btn_refresh">Novo Cálculo</string>
+</resources>
